@@ -6,6 +6,7 @@ This website is built using [Docusaurus](https://docusaurus.io/), a modern stati
 
 ```bash
 cd collegiumGuides
+npm i
 npm docusaurus start
 ```
 
