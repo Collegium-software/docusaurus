@@ -28,7 +28,7 @@ This command generates static content into the `build` directory and can be serv
 
 ## Deployment
 
-Just paste this into the terminal once you have cd'ed into collegiumGuides
+Just paste this into the terminal once you have cd'ed into collegiumGuides. Replace with your user name obviously
 
 ```
 GIT_USER=DuncanFindlayCollegium CURRENT_BRANCH=main npm run deploy
