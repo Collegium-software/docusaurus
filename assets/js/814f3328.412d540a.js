@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcollegium_guides=self.webpackChunkcollegium_guides||[]).push([["833"],{5513(e){e.exports=JSON.parse('{"title":"Recent posts","items":[]}')}}]);
