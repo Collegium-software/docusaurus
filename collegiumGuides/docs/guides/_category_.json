@@ -1,6 +1,7 @@
 {
   "label": "Guides",
   "position": 2,
+  "collapsed": false,
   "link": {
     "type": "generated-index",
     "description": "In depth guides on how to use the platform."
