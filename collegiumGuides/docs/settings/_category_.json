@@ -1,0 +1,9 @@
+{
+  "label": "Settings",
+  "position": 3,
+  "collapsed": false,
+  "link": {
+    "type": "generated-index",
+    "description": "Guides for managing account and company settings."
+  }
+}
