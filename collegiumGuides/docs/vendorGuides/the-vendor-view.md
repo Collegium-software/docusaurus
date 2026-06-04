@@ -21,7 +21,7 @@ This lists all the work packages your company has bid on. You can **View** the i
 
 ## Your Invoices
 
-This lists the details of invoices that your company has submitted. Clicking the eye icon will open the invoice itself in a new browser tab. You can filter by date, either by selecting a start and end date, or selecting a month form the drop down, export a Comma-Separated Values (CSV) file of the details in the table which can be opened in any spreadsheet software, type into the search text box, and **Export PDF** which will export the data in the table, and each individual invoice as a single PDF document.
+This lists the details of invoices that your company has submitted. Clicking the eye icon will open the invoice itself in a new browser tab. You can filter by date, either by selecting a start and end date, or selecting a month from the drop down. You may export a Comma-Separated Values (CSV) file of the details in the table which can be opened in any spreadsheet software. You can type into the search text box to filter the invoices. Clicking **Export PDF** will export the data in the table, and each individual invoice as a single PDF document.
 
 ![Your Invoices](/img/vendorYourInvoices.png)
 

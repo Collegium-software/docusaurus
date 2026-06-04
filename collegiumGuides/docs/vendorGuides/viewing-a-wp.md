@@ -3,17 +3,17 @@ sidebar_position: 2
 sidebar_label: Viewing a work package
 ---
 
-# Viewing A Work Package
+# Viewing a Work Package
 
-As a vendor on Collegium, you have access to all the information you need to place a competitive bid on work package.
+As a vendor on Collegium, you have access to all the information you need to place a competitive bid on a work package.
 
 ## The Work Package Overview Tab
 
-After clicking **View** on one of the various work package tables accessible to you, you are navigated to the overview tab. This gives a brief overview of the project, like address, the kinds of bids accepted, rough fulfillment dates etc.
+After clicking **View** on one of the various work package tables accessible to you, you are taken to the overview tab. This gives a brief overview of the project, like address, the kinds of bids accepted, rough fulfillment dates etc.
 
 ![Work Package Overview](/img/vendorWorkPackageOverview.png)
 
-Scrolling down, you get a brief overview of the model elements in the work package
+Scrolling down, you get a brief overview of the model elements in the work package.
 
 ![Work Package Overview](/img/vendorWorkPackageOverview2.png)
 
@@ -33,7 +33,7 @@ The **Export** button saves a CSV (Comma-separated Values) file of all the data 
 
 This lists other information associated with the work package, but also the project. Click **View File** and **Open Link** to view documents and web pages containing the precise specifications of the work package.
 
-![Scoped Model View](/img/vendorWPSuplimentalInfo.png)
+![Supplemental Information](/img/vendorWPSuplimentalInfo.png)
 
 ## Request For Information
 
