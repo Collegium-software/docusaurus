@@ -5,7 +5,7 @@ sidebar_label: Submitting a Bid
 
 # Submitting a Bid
 
-As a vendor, after reviewing the details of a work package, you have calculated your costs, and it is time to make a bid. Let's review the process.
+After reviewing a work package and calculating your costs, you are ready to submit a bid. Let's review the process.
 
 ## The Work Package Overview Tab
 
@@ -49,7 +49,7 @@ This table is dynamic, and will update both the subtotal and the costs in the su
 
 Below the table, the cost totals are displayed for everything entered above. In this case, the **Shipping Total** and **Supply + Install** fields are shown, but these fields will change depending on the **Basis of Quote/Estimate**.
 You should also fill in the timing. Enter **Days For Fabrication**, **Days to Deliver**, and/or **Estimated Days to Install** based on your circumstances.
-**Do you have an idea to innovate** is a simple yes/no switch. If you do, enter the idea in **Comments of Your ideas for innovation**. Perhaps your company has excellent photovoltaic roof tiles that cost a bit more but generate electricity, or perhaps you are willing to offer a 10% discount if you are awarded more than one bid. You are encouraged to come forward with ideas to improve the project.
+**Do you have an idea to innovate?** is a simple yes/no switch. If you do, enter the idea in **Comments of Your ideas for innovation**. Perhaps your company has excellent photovoltaic roof tiles that cost a bit more but generate electricity, or perhaps you are willing to offer a 10% discount if you are awarded more than one bid. You are encouraged to come forward with ideas to improve the project.
 
 ![Bid totals and innovation fields](/img/bidWizzard3.png)
 
@@ -68,3 +68,15 @@ After submitting your bid, you will be taken back to the work package overview p
 We also see a new button, **Withdraw Bid**. If you decide you no longer want to compete for this work package, click **Withdraw Bid** and your bid will be withdrawn from consideration. You will be able to reinstate or delete the bid from the **Withdrawn Bids** tab.
 
 ![Submitted bid actions](/img/bidWizzard5.png)
+
+## Dashboard
+
+Now you have submitted a bid, the platform displays a message under the work package name on the dashboard.
+
+![Dashboard Message Updated](/img/submittedBidsDashboard.png)
+
+## Company Bids
+
+Similarly on **Company Bids**, the work package is listed, and the status is displayed.
+
+![Company Bids](/img/submittedBids.png)
