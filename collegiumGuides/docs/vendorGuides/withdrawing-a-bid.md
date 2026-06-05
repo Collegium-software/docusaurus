@@ -27,6 +27,6 @@ If you navigate to **Your Withdrawn Bids**, you will see your bid listed there.
 
 ![Withdrawn Bids](/img/withdrawBid3.png)
 
-By clicking the three dot actions button, you can **Delete** the bid, permanently deleting it, or **Restore** the bid. You can only restore a withdrawn bid if you have not submitted a replacement bid and the work package has not closed. Once restored, the bid becomes available to the work package owner again.
+By clicking the three dot actions button, you can **Delete** the bid, permanently deleting it, or **Restore** the bid. You can only restore a withdrawn bid if you have not submitted a replacement bid and the work package has not closed. Once restored, the bid becomes available on **Company Bids** and to the work package owner again.
 
 ![Withdrawn bids actions](/img/withdrawBid4.png)
