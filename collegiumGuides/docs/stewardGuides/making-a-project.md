@@ -27,7 +27,7 @@ On the **Details** page, there are lots of basic details to fill in. Required fi
 - **Budget:** How much is it expected to cost.
 - **Classification of Budget:** How certain are we of the budget? Class 1-5.
 - **Project Description:** A short blurb about the project and what makes it attractive.
-- **Upload Project Image:** You can either drag the image directly on, or click here and navigate to the image.
+- **Upload Project Image:** You can either drag the image directly on, or click here and navigate to the image. Then click confirm upload to finalise.
 
 Fill it out to the best of your knowledge, and click next.
 
