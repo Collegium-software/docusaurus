@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-sidebar_label: Editing a project
+sidebar_label: Editing a Project
 ---
 
 # Editing a Project
