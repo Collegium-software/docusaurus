@@ -9,7 +9,7 @@ As **Collegium** is a data-forward platform, the generation of financial reports
 
 In the project tabs, click on **Financial Reports**. The sidebar can be collapsed and expanded again if you want a wider view. This applies to all the finance tables.
 
-## The Elemental Cost Breakdown (ECB) Uniformat
+## The Elemental Cost Breakdown (ECB) UniFormat
 
 The default report is the **ECB UniFormat**.
 
