@@ -1,21 +1,22 @@
 ---
 sidebar_position: 2
-sidebar_label: Making a project
+sidebar_label: Editing a Project
 ---
 
-# Stewards make projects
+# Editing a Project
 
-Stewards create the initial project record, fill out the core details, and assign the relevant users and companies. After the project is created, owner users or stewards can edit it, but a steward must create it first.
+There are two ways to get to the **Project Wizard**.
+The first way is to navigate to the project selection page. From here, click on the 3 dot menu on the right of the project of interest, and select **Edit Project**
 
-## Step 0: Navigate to the Projects Tab
+![Edit a project from project selection](/img/projectSelectionEdit.png)
 
-When logged in as Steward, click on **Projects** and observe all the projects on the platform. Click on the **Create New Project** button to open the Project Wizzard.
+The second is from the project overview page. From here, you can click **Edit project** and the **Project Wizard** will open.
 
-![Opening the Project Wizzard](/img/stewardCreateProject.png)
+![Edit a project from project overview](/img/projectOverviewPage.png)
 
-## Step 1: Fill out the basic information
+## Step 1: Review the basic project information
 
-On the **Details** page, there are lots of basic details to fill in. Required fields are highlighted in red.
+On the **Details** page, there are lots of basic details to review. Required fields are highlighted in red.
 
 - **Project Title:** What the project should be called.
 - **Project LLC Company Name:** Very likely, each project will be set up as its own company to prevent risk spreading between business endeavours. This is where we document that.
@@ -29,18 +30,18 @@ On the **Details** page, there are lots of basic details to fill in. Required fi
 - **Project Description:** A short blurb about the project and what makes it attractive.
 - **Upload Project Image:** You can either drag the image directly on, or click here and navigate to the image. Then click confirm upload to finalise.
 
-Fill it out to the best of your knowledge, and click next.
+Review, make any changes, and click next.
 
 ![Project Description](/img/projectWizzard1.png)
 
 ## Step 2: Options & Units
 
-The second page of the Project Wizzard. Here you can:
+The second page of the Project Wizard. Here you can:
 
 - **Select a Steward:** Pick from a list of active stewards.
 - **Bid Format Options:** Lump sum or Unit Rate. Default is Unit Rate, and it's strongly encouraged that we keep it that way.
 - **Make Project Private:** Private or not?
-- **Make Project Bidding Public:** The whole point of a project is to tender the work required to build it. This sets the default for the Work Package Wizzard. Do you want it to be closed, invite-only bidding, or open to anyone.
+- **Make Project Bidding Public:** The whole point of a project is to tender the work required to build it. This sets the default for the Work Package Wizard. Do you want it to be closed, invite-only bidding, or open to anyone.
 - **Net Land Area:** How much physical land does the project occupy?
 - **Gross Site Area:** How much land are you actually going to use?
 - **Net Site Area:** How much land will actually be occupied?
@@ -77,6 +78,6 @@ To add additional corporations, click **Add Company** then select a different co
 
 ## Step 5: User Permissions
 
-The final step is to assign roles to the users selected in the previous step. There are several roles available, Senior Management Team (SMT), Project Management Team (PMT), Project Implementation team (PIT), Quantity Surveyor (QS), and View Only. You can select more than one role per user. Small teams may need many roles per user. So give everyone an appropriate role, and when you're done, click **Publish Project**. The project will appear in the project list, and the owners will be able to interact with the new project when they log in.
+The final step is to assign roles to the users selected in the previous step. There are several roles available, Senior Management Team (SMT), Project Management Team (PMT), Project Implementation team (PIT), Quantity Surveyor (QS), and View Only. You can select more than one role per user. Small teams may need many roles per user. So give everyone an appropriate role, and when you're done, click **Update Project**. The changes will be saved in the database.
 
 ![Project User Permissions](/img/projectWizzard5.png)
