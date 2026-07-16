@@ -19,17 +19,17 @@ Navigate to **Company Bids**, and open the work package you wish to invoice. Tak
 
 Use this when preparing your invoice and simply email the invoice PDF to:
 
-[ap@collegiumbuilt.com](mailto:ap@collegiumbuilt.com)
+> [ap@collegiumbuilt.com](mailto:ap@collegiumbuilt.com)
 
 As long as the invoice has all required fields, our AI workflow will extract all relevant information from it, and in a minute or so you will see it appear in the **Your Invoices** tab, and **Work Package Invoices**.
 
 Required fields are:
 
-PO Number
-Total
-Date Issued
-Statutory Declaration Document (second invoice forward)
-WCB Document
+- PO Number
+- Total
+- Date Issued
+- Statutory Declaration Document (second invoice forward)
+- WCB Document
 
 Once the owner and QS approve the invoice, it will be scheduled for payment.
 
