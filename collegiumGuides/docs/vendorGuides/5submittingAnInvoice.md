@@ -31,7 +31,7 @@ Required fields are:
 - Statutory Declaration Document (second invoice forward)
 - WCB Document
 
-Once the owner and QS approve the invoice, it will be scheduled for payment.
+Once the project team approves the invoice, it will be scheduled for payment.
 
 ## Option 2: Submitting within the app
 

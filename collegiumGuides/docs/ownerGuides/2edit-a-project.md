@@ -78,6 +78,6 @@ To add additional corporations, click **Add Company** then select a different co
 
 ## Step 5: User Permissions
 
-The final step is to assign roles to the users selected in the previous step. There are several roles available, Senior Management Team (SMT), Project Management Team (PMT), Project Implementation team (PIT), Quantity Surveyor (QS), and View Only. You can select more than one role per user. Small teams may need many roles per user. So give everyone an appropriate role, and when you're done, click **Update Project**. The changes will be saved in the database.
+The final step is to assign roles to the users selected in the previous step. There are several roles available, Senior Management Team (SMT), Project Management Team (PMT), Project Implementation team (PIT), and View Only. You can select more than one role per user. Small teams may need many roles per user. So give everyone an appropriate role, and when you're done, click **Update Project**. The changes will be saved in the database.
 
 ![Project User Permissions](/img/projectWizzard5.png)
