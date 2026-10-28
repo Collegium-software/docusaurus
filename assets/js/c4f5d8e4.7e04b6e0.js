@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcollegium_guides=self.webpackChunkcollegium_guides||[]).push([["823"],{7176(e,u,s){s.r(u),s.d(u,{default:()=>l});var c=s(4848),i=s(6347);function l(){return(0,c.jsx)(i.rd,{to:"/docs/intro"})}}}]);
