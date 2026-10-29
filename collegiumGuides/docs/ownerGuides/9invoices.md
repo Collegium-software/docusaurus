@@ -39,19 +39,19 @@ This is also where the review process happens.
 
 ## The Invoice Processing Process
 
-This is a tiered approach, where the Project Implementation Team (PIT), Project Management Team (PMT), and Senior Management Team (SMT) work together. These three roles can be three or more people, or can be held by a single person. They are set in the [Project Wizard](./2edit-a-project.md).
+This is a tiered approach, where the Project Management Team (PMT) and Senior Management Team (SMT) work together. These three roles can be three or more people, or can be held by a single person. They are set in the [Project Wizard](./2edit-a-project.md).
 
 ### Initial Review
 
-After confirming that the invoice was submitted correctly and is associated with the correct bid and work, a **PIT** member can click **Mark reviewed**. This indicates that the invoice has passed an initial completeness check and is ready for the Quantity Surveyor (QS) to evaluate.
-If it does not meet the required standards, or it is a duplicate, or has some other issue, the **PIT** member can click **Reject Invoice**, and type in a brief reason why. This will instantly update the database, and let the vendor know what has happened.
+After confirming that the invoice was submitted correctly and is associated with the correct bid and work, a **PMT** member can click **Mark reviewed**. This indicates that the invoice has passed an initial completeness check and is ready for the Quantity Surveyor (QS) to evaluate.
+If it does not meet the required standards, or it is a duplicate, or has some other issue, the **PMT** member can click **Reject Invoice**, and type in a brief reason why. This will instantly update the database, and let the vendor know what has happened.
 If the invoice was marked reviewed in error, the user can simply click **Rescind review**.
 
 ### Quantity Surveyor Approval
 
 ![Actions for a reviewed invoice](/img/invoiceActions2.png)
 
-After review, and after the QS has reviewed the completed work to their satisfaction, a **PMT** member can click **Approve Invoice** clearing the invoice for payment.
+After review, and after the QS has reviewed the completed work to their satisfaction, a **SMT** member can click **Approve Invoice** clearing the invoice for payment.
 
 If this is done in error, the user can also click **Rescind Approval** to go back to **Reviewed** status.
 
