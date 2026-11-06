@@ -5,6 +5,8 @@ sidebar_label: Editing a Project
 
 # Editing a Project
 
+To edit a project, you must be on the Senior Management Team **SMT**, otherwise you will not see the buttons described below. If you need to be an **SMT** and you arent, contact an **SMT** on the project (See the **Project Team** tab), or contact your steward,
+
 There are two ways to get to the **Project Wizard**.
 The first way is to navigate to the project selection page. From here, click on the 3 dot menu on the right of the project of interest, and select **Edit Project**
 
