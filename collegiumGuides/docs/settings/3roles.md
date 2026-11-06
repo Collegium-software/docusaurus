@@ -10,7 +10,7 @@ The Collegium platform allows several levels of access to manage projects. A sin
 
 ## Senior Management Team (SMT)
 
-Senior Management Team can award bids, send work authorisations, approve invoices and mark them paid, manage project team members, and edit project details.
+Senior Management Team can edit projects, award bids, send work authorisations, approve invoices and mark them paid, manage project team members, and edit project details.
 
 ## Project Management Team (PMT)
 

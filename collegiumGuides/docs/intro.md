@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Collegium Intro
+# Collegium Help
 
 Welcome to **Collegium Help**.
 
