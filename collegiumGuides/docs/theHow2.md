@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# The How
+# The How 2
 
 ## A Guide to getting started on a Collegium based project
 
@@ -11,13 +11,11 @@ This “How2” introduces model-based project delivery: data from your models f
 Steps below use Revit and are color coded—within typical moderate Revit skills, and what needs slightly more effort but well within most firms' grasp.
 
 1. **ISO 19650 “Compliant” not “Certified”:**
-
    - a. Obtain and read Parts 1, 2 & 4.
    - b. Set up BIM360 or Forma as your ISO 19650-compliant Common Data Environment.
    - c. Provide access to BIM360 for Collegium Steward.
 
 2. **REVIT:**
-
    - a. Follow ISO 19650 naming; set up separate, linked discipline RVT files.
    - b. Set up worksets by Discipline, then subdiscipline; e.g. A:ARCH, then A:ARCH-WALLS.
    - c. Project Units = Metric; Collegium handles other unit conversion.
@@ -40,7 +38,6 @@ Steps below use Revit and are color coded—within typical moderate Revit skills
      3. Use Revit’s Compare tool to list elements Added, Modified, or Deleted between published model versions.
 
 3. **INDUSTRY STANDARDS:**
-
    - a. Obtain copies and read:
      1. ASTM E2516 Cost Classifications.
      2. ASTM E1804 Cost Analysis During Design.
@@ -49,7 +46,6 @@ Steps below use Revit and are color coded—within typical moderate Revit skills
      5. MASTERFORMAT 2018.
 
 4. **3D and 2D:**
-
    - a. Model to 3-decimal-mm accuracy; reconcile to nearest 1mm by changing distance, not rounding/overriding.
    - b. Use a Project and Survey Point to locate every model geospatially.
    - c. 2D can't replace the 3D model—it carries no data; use only where data isn't required.
